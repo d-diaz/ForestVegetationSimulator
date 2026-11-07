@@ -1,0 +1,16 @@
+           STAND ID= BASE                                                   no volume keywords                                 
+           STAND ID= TOP9                                                   VOLUME 9 inch top, date 0                          
+           STAND ID= TOP9_2014                                         VOLUME dated 2014: same as TOP9, FVS55                  
+********   FVS55 WARNING: VOLUME, BFVOLUME AND VOLEQNUM APPLY FROM THE START OF THE RUN.
+           STAND ID= TOP9_IF                                             VOLUME in never-true IF: same as TOP9, FVS55          
+********   FVS55 WARNING: VOLUME, BFVOLUME AND VOLEQNUM APPLY FROM THE START OF THE RUN.
+           STAND ID= BF12                                                   BFVOLUME 12 inch top, date 0                       
+           STAND ID= BF12_2014                                         BFVOLUME dated 2014: same as BF12, FVS55                
+********   FVS55 WARNING: VOLUME, BFVOLUME AND VOLEQNUM APPLY FROM THE START OF THE RUN.
+           STAND ID= BF12_IF                                             BFVOLUME in never-true IF: same as BF12, FVS55        
+********   FVS55 WARNING: VOLUME, BFVOLUME AND VOLEQNUM APPLY FROM THE START OF THE RUN.
+           STAND ID= DEF_2014                                           VOLUME dated 2014, default specs, field 7 blank: same a
+********   FVS55 WARNING: VOLUME, BFVOLUME AND VOLEQNUM APPLY FROM THE START OF THE RUN.
+           STAND ID= VEQ                                                     VOLEQNUM                                          
+           STAND ID= VEQ_IF                                               VOLEQNUM in never-true IF: same as VEQ, FVS55        
+********   FVS55 WARNING: VOLUME, BFVOLUME AND VOLEQNUM APPLY FROM THE START OF THE RUN.
